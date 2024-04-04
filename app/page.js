@@ -24,8 +24,8 @@ export default function Homepage() {
           {/* DESC */}
           <p className="md:text-xl">
             Welcome to my digital domain,Where creativity and code
-            intertwine.Explore the realm of web wonders I've designed,Embark on
-            a journey of innovation refined.
+            intertwine.Explore the realm of web wonders I have designed,Embark
+            on a journey of innovation refined.
           </p>
           {/* BUTTONS */}
           <div className="w-full flex gap-4">
